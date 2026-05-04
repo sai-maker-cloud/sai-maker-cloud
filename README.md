@@ -49,8 +49,8 @@ Hi, I'm **Sai** 👋
 ---
 
 # 🌐 Connect With Me  
-- 💼 LinkedIn: *Add your link here*  
-- 📧 Email: *Add your email here*  
+
+- 📧 Email: saiabhang866@gmail.com  
 
 ---
 
