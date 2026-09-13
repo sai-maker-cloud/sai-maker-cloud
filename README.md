@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="./gtavi.png" width="100%">
+
 #  **SAI ABHANG**
 
 ### `Software Developer • Problem Solver • Full Stack Developer`
@@ -13,11 +15,6 @@
 </div>
 
 ---
-<div align="center">
-
-<img src="./gtavi.png" width="100%">
-
-</div>
 
 # 🌆 About Me
 
@@ -73,11 +70,11 @@ Hi, I'm **Sai** 👋
 
 ---
 
-## ☁️ Cloud & Development
+## 🛠️ Development Tools
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -92,7 +89,7 @@ Hi, I'm **Sai** 👋
 
 ```text
 ╔══════════════════════════════════════════════════════╗
-║                    VICE CITY MODE                    ║
+║                    🌴 VICE CITY MODE 🌴              ║
 ╠══════════════════════════════════════════════════════╣
 ║                                                      ║
 ║  🧠 Strengthening Data Structures & Algorithms       ║
@@ -102,7 +99,6 @@ Hi, I'm **Sai** 👋
 ║  ☕ Learning Java Backend Development                ║
 ║                                                      ║
 ║  🌱 Exploring Spring Boot                            ║
-║                                                      ║             ║
 ║                                                      ║
 ║  🤖 Exploring AI & Problem Solving Techniques        ║
 ║                                                      ║
