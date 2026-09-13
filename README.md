@@ -13,6 +13,11 @@
 </div>
 
 ---
+<div align="center">
+
+<img src="./gtavi.png" width="100%">
+
+</div>
 
 # 🌆 About Me
 
