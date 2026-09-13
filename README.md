@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 💗 **SAI ABHANG**
+#  **SAI ABHANG**
 
 ### `Software Developer • Problem Solver • Full Stack Developer`
 
