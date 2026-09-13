@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./gtavi.png" width="100%">
+<img src="ChatGPT Image Sep 13, 2026, 09_46_09 PM.png" width="100%">
 
 #  **SAI ABHANG**
 
